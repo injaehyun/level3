@@ -1,0 +1,16 @@
+.Select1{
+  max-width: 100%;
+  height: 150px;
+  border: 2px solid gray;
+  overflow: hidden;
+  }
+
+.Select2{
+height: 40px;
+width: 300px;
+padding: 0 10px;
+border: 1px solid gray;
+border-radius: 10px;
+align-items: center;
+justify-content: space-between;
+}
